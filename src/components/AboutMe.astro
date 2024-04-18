@@ -1,0 +1,38 @@
+---
+import { basics } from "datos.json";
+import LinkButton from "./LinkButton.astro";
+const { name, avatar, newsletter } = basics
+---
+
+<article class="flex flex-col items-center justify-center gap-8 text-gray-300 md:flex-row">
+  <div
+    class="[&>p]:mb-4 [&>p>strong]:text-red-400 [&>p>strong]:font-normal text-pretty order-2 md:order-1"
+  >
+    <p>
+      Me llamo <strong>Guido Risso</strong>, un apasionado de los RRHH, los datos y la tecnología, 
+      en constante búsqueda de aprender y generar impacto tanto en personas como en organizaciones.
+    </p>
+
+    <p>
+      Me motiva y reta compartir ideas y mejoras para hacer más eficientes los procesos y tareas, 
+      manteniendo siempre una visión estratégica de las personas, los departamentos y la organización.
+    </p>
+    <p>
+      Un fanático de la cultura startup, donde es esencial ponerse manos a la obra para construir y hacer crecer la organización desde cero.
+    </p>
+    <p>
+      Espero que te guste mi contenido y en caso de ser así, no te olvides de suscribirte a mi newsletter.
+    </p>
+    <LinkButton href={newsletter}>
+      Suscribir
+    </LinkButton>
+
+  </div>
+
+  <img width="200" height="200" src={avatar} alt={name} 
+  class="order-1 object-cover w-64 h-full p-1 md:order-2 rotate-3 lg:p-2 lg:w-64 aspect-square rounded-2xl bg-red-500/5 ring-1 
+  ring-white/20 " style="object-position: 50% 50%">
+
+</article>
+
+

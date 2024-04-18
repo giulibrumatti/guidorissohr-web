@@ -1,0 +1,16 @@
+---
+import BlogItem from "./BlogItem.astro"
+
+
+import { blog } from "datos.json"
+---
+
+<ol class="relative mt-16">
+  {
+    blog.map((BLOG) => (
+      <li class="">
+        <BlogItem {...BLOG} />
+      </li>
+    ))
+  }
+</ol>

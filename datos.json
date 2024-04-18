@@ -1,0 +1,56 @@
+{
+  "basics": {
+    "name": "Guido Risso",
+    "logo": "/logo.png",
+    "image": "",
+    "avatar": "/avatar.jpg",
+    "email": "guidoandresrisso@gmail.com",
+    "country": "Argentina",
+    "urlLinkedin": "https://www.linkedin.com/in/guidorisso/",
+    "urlInstagram": "",
+    "newsletter":"https://www.linkedin.com/newsletters/the-next-hr-trends-tech-6940293600823894017/"
+  },
+
+  "videos": [
+    {
+      "title": "Explorando el universo de HR Tech",
+      "description": "",
+      "channelTitle": "Introducción",
+      "videoId": "Wq7DmMjzUkM"
+    },
+    {
+      "title": "Automatizando con MAKE",
+      "description": "",
+      "channelTitle": "Envío de vacaciones pendientes",
+      "videoId": "lI1MlGAgNfs"
+    },
+    {
+      "title": "Automatizando con MAKE",
+      "description": "",
+      "channelTitle": "Envío de vacaciones pendientes",
+      "videoId": "lI1MlGAgNfs"
+    }
+
+  ],
+
+    "blog":[
+    {
+      "date": "21 de febrero de 2024",
+      "title": "Reinventando a nuestro EX con un toque disruptivo",
+      "url":"https://www.linkedin.com/pulse/reinventando-nuestro-ex-con-un-toque-disruptivo-guido-risso-xgt4f/",
+      "description":
+          "No te dejes llevar por el título y te invito a que sigas leyendo. En este segundo artículo voy a estar hablando de como la tecnología puede ayudarnos a transformar nuestro 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲.Comparto algunos ejemplos y casos de compañias que ya se encuentran en este estadío de 𝗛𝗥 𝗧𝗲𝗰𝗵 teniendo a la tecnología como su principal aliada."
+
+    },
+    {
+      "date": "17 de Enero de 2024",
+      "title": "¿Cómo mantener lo humano en un mundo tecnológico?",
+      "url":"https://www.linkedin.com/pulse/c%C3%B3mo-mantener-lo-humano-en-un-mundo-tecnol%C3%B3gico-guido-risso-gifzf/",
+      "description":
+          "Cada vez hay más tecnología para optimizar nuestras tareas o servicios por lo cuál a veces se nos olvida la importancia que tiene el toque humano por este motivo, quiero invitarte a que leas esta primera edición en donde reflexionaré sobre como hacerle frente a este contexto actual."
+    }
+  ]
+  
+}
+
+
