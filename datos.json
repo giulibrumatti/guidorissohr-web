@@ -16,49 +16,57 @@
       "title": "Explorando el universo de HR Tech",
       "description": "",
       "channelTitle": "Introducción",
-      "videoId": "Wq7DmMjzUkM"
+      "videoId": "Wq7DmMjzUkM",
+      "image": ""
     },
     {
       "title": "Automatizando con MAKE",
       "description": "",
       "channelTitle": "Envío de vacaciones pendientes",
-      "videoId": "lI1MlGAgNfs"
-    },
-    {
-      "title": "People Analytics",
-      "description": "",
-      "channelTitle": "Con GEMINI (IA)",
-      "videoId": "b3zs9pVT-PA"
+      "videoId": "lI1MlGAgNfs",
+      "image": ""
     },
     {
       "title": "Mate en mano",
       "description": "",
       "channelTitle": "Transformando la gestión de personas con datos",
-      "videoId": "34sUdjj3k5U"
+      "videoId": "34sUdjj3k5U",
+      "image": ""
     },
     {
       "title": "HR TECH - #1 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
       "description": "",
       "channelTitle": "Primera edición",
-      "videoId": "VPrmxIXOl1I"
+      "videoId": "VPrmxIXOl1I",
+      "image": ""
     },
     {
       "title": "HR TECH - #2 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
       "description": "",
       "channelTitle": "PEOPLE ANALYTICS - MITOS Y VERDADES",
-      "videoId": "q5UtZy8OMWc"
+      "videoId": "q5UtZy8OMWc",
+      "image": ""
     },
     {
       "title": "#HRLive - Data edition",
       "description": "",
       "channelTitle": "Una juventud atravesada por los datos",
-      "videoId": "9pxm8cEiuig"
+      "videoId": "9pxm8cEiuig",
+      "image": ""
     },
     {
       "title": "#HR Tech",
       "description": "",
       "channelTitle": "La revolución de la AI y la tecnología en HR - Ep. 11 - T2",
-      "videoId": "i82Dc3azhqE"
+      "videoId": "i82Dc3azhqE",
+      "image": ""
+    },
+    {
+      "title": "People Analytics",
+      "description": "",
+      "channelTitle": "Con GEMINI (IA)",
+      "videoId": "b3zs9pVT-PA",
+      "image":"/portada.png"
     }
 
   ],
