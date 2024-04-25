@@ -17,56 +17,56 @@
       "description": "",
       "channelTitle": "Introducción",
       "videoId": "Wq7DmMjzUkM",
-      "image": ""
+      "image": null
     },
     {
       "title": "Automatizando con MAKE",
       "description": "",
       "channelTitle": "Envío de vacaciones pendientes",
       "videoId": "lI1MlGAgNfs",
-      "image": ""
-    },
-    {
-      "title": "Mate en mano",
-      "description": "",
-      "channelTitle": "Transformando la gestión de personas con datos",
-      "videoId": "34sUdjj3k5U",
-      "image": ""
-    },
-    {
-      "title": "HR TECH - #1 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
-      "description": "",
-      "channelTitle": "Primera edición",
-      "videoId": "VPrmxIXOl1I",
-      "image": ""
-    },
-    {
-      "title": "HR TECH - #2 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
-      "description": "",
-      "channelTitle": "PEOPLE ANALYTICS - MITOS Y VERDADES",
-      "videoId": "q5UtZy8OMWc",
-      "image": ""
-    },
-    {
-      "title": "#HRLive - Data edition",
-      "description": "",
-      "channelTitle": "Una juventud atravesada por los datos",
-      "videoId": "9pxm8cEiuig",
-      "image": ""
-    },
-    {
-      "title": "#HR Tech",
-      "description": "",
-      "channelTitle": "La revolución de la AI y la tecnología en HR - Ep. 11 - T2",
-      "videoId": "i82Dc3azhqE",
-      "image": ""
+      "image": null
     },
     {
       "title": "People Analytics",
       "description": "",
       "channelTitle": "Con GEMINI (IA)",
       "videoId": "b3zs9pVT-PA",
-      "image":"/portada.png"
+      "image":"/portVid3.png"
+    },
+    {
+      "title": "Mate en mano",
+      "description": "",
+      "channelTitle": "Transformando la gestión de personas con datos",
+      "videoId": "34sUdjj3k5U",
+      "image": null
+    },
+    {
+      "title": "HR TECH - #1 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
+      "description": "",
+      "channelTitle": "Primera edición",
+      "videoId": "VPrmxIXOl1I",
+      "image": null
+    },
+    {
+      "title": "HR TECH - #2 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
+      "description": "",
+      "channelTitle": "PEOPLE ANALYTICS - MITOS Y VERDADES",
+      "videoId": "q5UtZy8OMWc",
+      "image": null
+    },
+    {
+      "title": "#HRLive - Data edition",
+      "description": "",
+      "channelTitle": "Una juventud atravesada por los datos",
+      "videoId": "9pxm8cEiuig",
+      "image": null
+    },
+    {
+      "title": "#HR Tech",
+      "description": "",
+      "channelTitle": "La revolución de la AI y la tecnología en HR - Ep. 11 - T2",
+      "videoId": "i82Dc3azhqE",
+      "image": null
     }
 
   ],
@@ -76,14 +76,16 @@
       "date": "21 de febrero de 2024",
       "title": "Reinventando a nuestro EX con un toque disruptivo",
       "url":"https://www.linkedin.com/pulse/reinventando-nuestro-ex-con-un-toque-disruptivo-guido-risso-xgt4f/",
+      "image":"/portBlog2.png",
       "description":
-          "No te dejes llevar por el título y te invito a que sigas leyendo. En este segundo artículo voy a estar hablando de como la tecnología puede ayudarnos a transformar nuestro 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲.Comparto algunos ejemplos y casos de compañias que ya se encuentran en este estadío de 𝗛𝗥 𝗧𝗲𝗰𝗵 teniendo a la tecnología como su principal aliada."
+          "No te dejes llevar por el título y te invito a que sigas leyendo. En este segundo artículo voy a estar hablando de como la tecnología puede ayudarnos a transformar nuestro 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. Comparto algunos ejemplos y casos de compañias que ya se encuentran en este estadío de 𝗛𝗥 𝗧𝗲𝗰𝗵 teniendo a la tecnología como su principal aliada."
 
     },
     {
       "date": "17 de Enero de 2024",
       "title": "¿Cómo mantener lo humano en un mundo tecnológico?",
       "url":"https://www.linkedin.com/pulse/c%C3%B3mo-mantener-lo-humano-en-un-mundo-tecnol%C3%B3gico-guido-risso-gifzf/",
+      "image":"/portBlog1.png",
       "description":
           "Cada vez hay más tecnología para optimizar nuestras tareas o servicios por lo cuál a veces se nos olvida la importancia que tiene el toque humano por este motivo, quiero invitarte a que leas esta primera edición en donde reflexionaré sobre como hacerle frente a este contexto actual."
     }

@@ -19,7 +19,7 @@ import { videos } from "datos.json";
               <figure>
                 <Image
                   alt={video.title}
-                  src={`https://i.ytimg.com/vi/${video.videoId}/maxresdefault.jpg`}
+                  src={video.image ? `${video.image}` : `https://i.ytimg.com/vi/${video.videoId}/maxresdefault.jpg`}
                   class="h-55 w-full object-cover"
                   width={309}
                   height={176}
