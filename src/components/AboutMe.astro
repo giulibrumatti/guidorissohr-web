@@ -1,6 +1,7 @@
 ---
 import { basics } from "datos.json";
-import LinkButton from "./LinkButton.astro";
+import SocialPill from "./SocialPill.astro";
+import LinkedInIcon from "./icons/LinkedIn.astro";
 const { name, avatar, newsletter } = basics
 ---
 
@@ -25,9 +26,10 @@ const { name, avatar, newsletter } = basics
     <p class="pt-4">
       Espero que te guste mi contenido y en caso de ser así, no te olvides de suscribirte a mi <b>newsletter</b>.
     </p>
-    <LinkButton href={newsletter}>
+    <SocialPill href={newsletter}>
+      <LinkedInIcon class="size-4" />
       Suscribir
-    </LinkButton>
+    </SocialPill>
 
   </div>
 

@@ -2,13 +2,13 @@
 import Layout from "@/layouts/Layout.astro"
 
 import AboutMe from "@/components/AboutMe.astro"
-import Video from "@/components/icons/Video.astro"
+import Blog from "@/components/Blog.astro"
+import Hero from "@/components/Hero.astro"
+import SectionContainer from "@/components/SectionContainer.astro"
+import Streaming from "@/components/Streaming.astro"
 import Book from "@/components/icons/Book.astro"
 import ProfileCheck from "@/components/icons/ProfileCheck.astro"
-import SectionContainer from "@/components/SectionContainer.astro"
-import Hero from "@/components/Hero.astro"
-import Blog from "@/components/Blog.astro"
-import Streaming from "@/components/Streaming.astro"
+import Video from "@/components/icons/Video.astro"
 ---
 
 <Layout
@@ -22,6 +22,15 @@ import Streaming from "@/components/Streaming.astro"
     </Hero>
     </SectionContainer>
     <div class="space-y-24">
+    <SectionContainer id="sobre-mi">
+        <h2
+          class="flex items-center mb-6 text-3xl font-semibold gap-x-8 text-white"
+        >
+          <ProfileCheck class="size-8" />
+          Sobre mí
+        </h2>
+        <AboutMe />
+    </SectionContainer>
     <SectionContainer id="streaming">
       <h2
         class="flex items-center mb-6 text-3xl font-semibold gap-x-3 text-white"
@@ -40,16 +49,6 @@ import Streaming from "@/components/Streaming.astro"
         Blog
       </h2>
       <Blog />
-    </SectionContainer>
-
-    <SectionContainer id="sobre-mi">
-      <h2
-        class="flex items-center mb-6 text-3xl font-semibold gap-x-8 text-white"
-      >
-        <ProfileCheck class="size-8" />
-        Sobre mí
-      </h2>
-      <AboutMe />
     </SectionContainer>
     </div>
   </main>
