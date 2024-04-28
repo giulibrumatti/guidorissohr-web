@@ -1,10 +1,20 @@
 ---
 import { Image } from "astro:assets";
-import { videos } from "datos.json";
+import { videos, basics } from "datos.json";
+import YouTube from "./icons/YouTube.astro";
+import SocialPill from "./SocialPill.astro";
+const { urlYoutube } = basics
 
 ---
 
 <section class="max-w-screen-lg px-4 mx-auto pb-12 sm:px-6 lg:px-8">
+  <div class="mb-8 text-gray-300">
+    Mira más sobre mi contenido en
+    <SocialPill href={urlYoutube}>
+      <YouTube class="size-4" />
+      YouTube
+    </SocialPill>
+  </div>
     <ul
       class="mx-auto grid grid-cols-1 md:grid-cols-2 gap-x-4 gap-y-4 lg:mx-0 lg:max-w-none lg:grid-cols-3 text-white"
     >

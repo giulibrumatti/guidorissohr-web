@@ -1,9 +1,3 @@
----
-import { basics } from "datos.json";
-import SocialPill from "./SocialPill.astro";
-import LinkedInIcon from "./icons/LinkedIn.astro";
-const { name, avatar, newsletter } = basics
----
 
 <article class="flex flex-col items-center justify-center gap-8 text-gray-300 md:flex-row">
   <div
@@ -16,27 +10,14 @@ const { name, avatar, newsletter } = basics
       eficientizando los procesos a través del uso de People Analytics, IA y automatización.
     </p>
     <p>
-      <span class="underline decoration-solid">Tengo varias personalidades</span>🦸‍♂️:
+      Tengo varias personalidades 🦸‍♂️:
     </p>
     <ul class="list-disc list-inside">
       <li><b>Sr HRBP para la región de Americas en intive (software company)</b></li>
       <li><b>Co - Founder de HRissan 🚀 (consultora de formación en tendencias de HR)</b></li>
       <li><b>Speaker y conferencista sobre People Analytics e IA en HR.</b></li>
     </ul>
-    <p class="pt-4">
-      Espero que te guste mi contenido y en caso de ser así, no te olvides de suscribirte a mi <b>newsletter</b>.
-    </p>
-    <SocialPill href={newsletter}>
-      <LinkedInIcon class="size-4" />
-      Suscribir
-    </SocialPill>
-
   </div>
-
-  <img width="200" height="200" src={avatar} alt={name} 
-  class="order-1 object-cover w-64 h-full p-1 md:order-2 rotate-3 lg:p-2 lg:w-64 aspect-square rounded-2xl bg-red-500/5 ring-1 
-  ring-white/20 " style="object-position: 50% 50%">
-
 </article>
 
 

@@ -31,24 +31,23 @@ import Video from "@/components/icons/Video.astro"
         </h2>
         <AboutMe />
     </SectionContainer>
+    <SectionContainer id="blog">
+      <h2
+        class="flex items-center mb-6 text-3xl font-semibold gap-x-8 text-white"
+      >
+        <Book class="size-8" />
+        Blog
+      </h2>
+      <Blog />
+    </SectionContainer>
     <SectionContainer id="streaming">
       <h2
-        class="flex items-center mb-6 text-3xl font-semibold gap-x-3 text-white"
+        class="flex items-center mb-6 text-3xl font-semibold gap-x-8 text-white"
       >
         <Video class="size-8" />
         Streaming
       </h2>
       <Streaming />
-    </SectionContainer>
-
-    <SectionContainer id="blog">
-      <h2
-        class="flex items-center mb-6 text-3xl font-semibold gap-x-3 text-white"
-      >
-        <Book class="size-7" />
-        Blog
-      </h2>
-      <Blog />
     </SectionContainer>
     </div>
   </main>
