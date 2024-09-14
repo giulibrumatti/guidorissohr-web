@@ -14,66 +14,24 @@
 
   "videos": [
     {
-      "title": "Explorando el universo de HR Tech",
+      "title": "FIDAGH ONINE Agosto 2024 | HR TECH",
       "description": "",
-      "channelTitle": "Introducción",
-      "videoId": "Wq7DmMjzUkM",
+      "channelTitle": "El uso de la tecnología y los datos como aliados",
+      "videoId": "NTF2V5pf2XM",
+      "image": null
+    },
+    {    
+      "title": "Webinar HR TECH",
+      "description": "",
+      "channelTitle": "Equidad Recursos & HRIssan",
+      "videoId": "d-wsgFWEpjU",
       "image": null
     },
     {
-      "title": "Automatizando con MAKE",
+      "title": "HR TECH #6 TRANSFORMANDO HR CON DATOS",
       "description": "",
-      "channelTitle": "Envío de vacaciones pendientes",
-      "videoId": "lI1MlGAgNfs",
-      "image": null
-    },
-    {
-      "title": "People Analytics",
-      "description": "",
-      "channelTitle": "Con GEMINI (IA)",
-      "videoId": "b3zs9pVT-PA",
-      "image":"/portVid3.png"
-    },
-    {
-      "title": "Mate en mano",
-      "description": "",
-      "channelTitle": "Transformando la gestión de personas con datos",
-      "videoId": "34sUdjj3k5U",
-      "image": null
-    },
-    {
-      "title": "HR TECH #1 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
-      "description": "",
-      "channelTitle": "Primera edición",
-      "videoId": "VPrmxIXOl1I",
-      "image": null
-    },
-    {
-      "title": "HR TECH #2 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
-      "description": "",
-      "channelTitle": "PEOPLE ANALYTICS - MITOS Y VERDADES",
-      "videoId": "q5UtZy8OMWc",
-      "image": null
-    },
-    {
-      "title": "HRLive - Data edition",
-      "description": "",
-      "channelTitle": "Una juventud atravesada por los datos",
-      "videoId": "9pxm8cEiuig",
-      "image": null
-    },
-    {
-      "title": "HR Tech",
-      "description": "",
-      "channelTitle": "La revolución de la AI y la tecnología en HR - Ep. 11 - T2",
-      "videoId": "i82Dc3azhqE",
-      "image": null
-    },
-    {
-      "title": "HR TECH #4 INTELIGENCIA ARTIFICIAL",
-      "description": "",
-      "channelTitle": "Integración de la IA en nuestras vidas",
-      "videoId": "K3ZaTGHfIkQ",
+      "channelTitle": "Dialogamos con Juanjo Miranda quien nos acerca desde Colombia sus conocimientos en HR y Tecnología",
+      "videoId": "hziKUQREGqw",
       "image": null
     },
     {
@@ -84,24 +42,66 @@
       "image": null
     },
     {
-      "title": "HR TECH #6 TRANSFORMANDO HR CON DATOS",
+      "title": "HR TECH #4 INTELIGENCIA ARTIFICIAL",
       "description": "",
-      "channelTitle": "Dialogamos con Juanjo Miranda quien nos acerca desde Colombia sus conocimientos en HR y Tecnología",
-      "videoId": "hziKUQREGqw",
-      "image": null
-    },
-    {    
-      "title": "Webinar HR TECH",
-      "description": "",
-      "channelTitle": "Equidad Recursos & HRIssan",
-      "videoId": "NTF2V5pf2XM",
+      "channelTitle": "Integración de la IA en nuestras vidas",
+      "videoId": "K3ZaTGHfIkQ",
       "image": null
     },
     {
-      "title": "FIDAGH ONINE Agosto 2024 | HR TECH",
+      "title": "HR Tech",
       "description": "",
-      "channelTitle": "El uso de la tecnología y los datos como aliados",
-      "videoId": "d-wsgFWEpjU",
+      "channelTitle": "La revolución de la AI y la tecnología en HR - Ep. 11 - T2",
+      "videoId": "i82Dc3azhqE",
+      "image": null
+    },
+    {
+      "title": "HRLive - Data edition",
+      "description": "",
+      "channelTitle": "Una juventud atravesada por los datos",
+      "videoId": "9pxm8cEiuig",
+      "image": null
+    },
+    {
+      "title": "HR TECH #2 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
+      "description": "",
+      "channelTitle": "PEOPLE ANALYTICS - MITOS Y VERDADES",
+      "videoId": "q5UtZy8OMWc",
+      "image": null
+    },
+    {
+      "title": "HR TECH #1 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
+      "description": "",
+      "channelTitle": "Primera edición",
+      "videoId": "VPrmxIXOl1I",
+      "image": null
+    },
+    {
+      "title": "Mate en mano",
+      "description": "",
+      "channelTitle": "Transformando la gestión de personas con datos",
+      "videoId": "34sUdjj3k5U",
+      "image": null
+    },
+    {
+      "title": "People Analytics",
+      "description": "",
+      "channelTitle": "Con GEMINI (IA)",
+      "videoId": "b3zs9pVT-PA",
+      "image":"/portVid3.png"
+    },
+    {
+      "title": "Automatizando con MAKE",
+      "description": "",
+      "channelTitle": "Envío de vacaciones pendientes",
+      "videoId": "lI1MlGAgNfs",
+      "image": null
+    },   
+    {
+      "title": "Explorando el universo de HR Tech",
+      "description": "",
+      "channelTitle": "Introducción",
+      "videoId": "Wq7DmMjzUkM",
       "image": null
     }
   ],
