@@ -1,6 +1,6 @@
 ---
 import { Image } from "astro:assets";
-import { videos, basics } from "datos.json";
+import { basics, videos } from "datos.json";
 import YouTube from "./icons/YouTube.astro";
 import SocialPill from "./SocialPill.astro";
 const { urlYoutube } = basics
@@ -22,7 +22,7 @@ const { urlYoutube } = basics
          videos.map((video) => (
           <li>
             <a
-              href={`https://www.youtube.com/watch?v=${video.videoId}`}
+              href={ video.url ? `${video.url}` : `https://www.youtube.com/watch?v=${video.videoId}`}
               target="_blank"
               class="relative top-0 block overflow-hidden rounded-2xl"
             >

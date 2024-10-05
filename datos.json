@@ -8,156 +8,159 @@
     "country": "Argentina",
     "urlLinkedin": "https://www.linkedin.com/in/guidorisso/",
     "urlInstagram": "",
-    "newsletter":"https://www.linkedin.com/newsletters/the-next-hr-trends-tech-6940293600823894017/",
-    "urlYoutube":"https://www.youtube.com/@HRissan_"
+    "newsletter": "https://www.linkedin.com/newsletters/the-next-hr-trends-tech-6940293600823894017/",
+    "urlYoutube": "https://www.youtube.com/@HRissan_"
   },
-
   "videos": [
     {
       "title": "HR TECH #8",
       "description": "",
       "channelTitle": "Avances de la tecnología y la IA",
       "videoId": "GETaC-kANsY",
-      "image": null
+      "image": null,
+      "url": null
     },
     {
       "title": "FIDAGH ONINE Agosto 2024 | HR TECH",
       "description": "",
       "channelTitle": "El uso de la tecnología y los datos como aliados",
       "videoId": "NTF2V5pf2XM",
-      "image": null
+      "image": null,
+      "url": null
     },
-    {    
+    {
       "title": "Webinar HR TECH",
       "description": "",
       "channelTitle": "Equidad Recursos & HRIssan",
       "videoId": "d-wsgFWEpjU",
-      "image": null
+      "image": null,
+      "url": null
+    },
+    {
+      "title": "Charla con Miguel de Alkemy",
+      "description": "",
+      "channelTitle": "People Analytics: Transformando Datos en Decisiones Estratégicas de RRHH",
+      "videoId": null,
+      "image": "/portBlog4.png",
+      "url": "https://www.linkedin.com/events/peopleanalytics-transformandoda7186790266282930176/comments/"
     },
     {
       "title": "HR TECH #6 TRANSFORMANDO HR CON DATOS",
       "description": "",
       "channelTitle": "Dialogamos con Juanjo Miranda quien nos acerca desde Colombia sus conocimientos en HR y Tecnología",
       "videoId": "hziKUQREGqw",
-      "image": null
+      "image": null,
+      "url": null
     },
     {
       "title": "HR TECH #5 CAJA DE HERRAMIENTAS",
       "description": "",
       "channelTitle": "Lanzamiento del nuevo Chat GPT 4.0, caja de herramientas para un HR Tech y te mostramos como gestionar una IA",
       "videoId": "wmbZFrD8Mo0",
-      "image": null
+      "image": null,
+      "url": null
     },
     {
       "title": "HR TECH #4 INTELIGENCIA ARTIFICIAL",
       "description": "",
       "channelTitle": "Integración de la IA en nuestras vidas",
       "videoId": "K3ZaTGHfIkQ",
-      "image": null
+      "image": null,
+      "url": null
     },
     {
       "title": "HR Tech",
       "description": "",
       "channelTitle": "La revolución de la AI y la tecnología en HR - Ep. 11 - T2",
       "videoId": "i82Dc3azhqE",
-      "image": null
+      "image": null,
+      "url": null
     },
     {
       "title": "HRLive - Data edition",
       "description": "",
       "channelTitle": "Una juventud atravesada por los datos",
       "videoId": "9pxm8cEiuig",
-      "image": null
+      "image": null,
+      "url": null
     },
     {
       "title": "HR TECH #2 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
       "description": "",
       "channelTitle": "PEOPLE ANALYTICS - MITOS Y VERDADES",
       "videoId": "q5UtZy8OMWc",
-      "image": null
+      "image": null,
+      "url": null
     },
     {
       "title": "HR TECH #1 PROGRAMA CON GUIDO RISSO Y BRIAN ANDERSEN",
       "description": "",
       "channelTitle": "Primera edición",
       "videoId": "VPrmxIXOl1I",
-      "image": null
+      "image": null,
+      "url": null
     },
     {
       "title": "Mate en mano",
       "description": "",
       "channelTitle": "Transformando la gestión de personas con datos",
       "videoId": "34sUdjj3k5U",
-      "image": null
+      "image": null,
+      "url": null
     },
     {
       "title": "People Analytics",
       "description": "",
       "channelTitle": "Con GEMINI (IA)",
       "videoId": "b3zs9pVT-PA",
-      "image":"/portVid3.png"
+      "image": "/portVid3.png",
+      "url": null
     },
     {
       "title": "Automatizando con MAKE",
       "description": "",
       "channelTitle": "Envío de vacaciones pendientes",
       "videoId": "lI1MlGAgNfs",
-      "image": null
-    },   
+      "image": null,
+      "url": null
+    },
     {
       "title": "Explorando el universo de HR Tech",
       "description": "",
       "channelTitle": "Introducción",
       "videoId": "Wq7DmMjzUkM",
-      "image": null
+      "image": null,
+      "url": null
     }
   ],
-
-    "blog":[
+  "blog": [
     {
       "date": "18 de Junio de 2024",
       "title": "El futuro del aprendizaje: Nunca dejes de aprender",
-      "url":"https://www.linkedin.com/pulse/el-futuro-del-aprendizaje-nunca-dejes-de-aprender-guido-risso-mgt1f/?trackingId=WsY6ezkrRpeNF6HszPF1Yw%3D%3D",
-      "image":"/portBlog5.png",
-      "description":
-          "En este número, exploramos cómo la inteligencia artificial está transformando la formación profesional, desde la personalización del aprendizaje hasta el feedback instantáneo y las experiencias de gamificación que hacen que aprender sea más efectivo y divertido que nunca."
-    },
-    {
-      "date": "15 de Mayo de 2024",
-      "title": "Charla con Miguel de Alkemy",
-      "url":"https://www.linkedin.com/events/peopleanalytics-transformandoda7186790266282930176/comments/",
-      "image":"/portBlog4.png",
-      "description":
-          "People Analytics: Transformando Datos en Decisiones Estratégicas de RRHH"
+      "url": "https://www.linkedin.com/pulse/el-futuro-del-aprendizaje-nunca-dejes-de-aprender-guido-risso-mgt1f/?trackingId=WsY6ezkrRpeNF6HszPF1Yw%3D%3D",
+      "image": "/portBlog5.png",
+      "description": "En este número, exploramos cómo la inteligencia artificial está transformando la formación profesional, desde la personalización del aprendizaje hasta el feedback instantáneo y las experiencias de gamificación que hacen que aprender sea más efectivo y divertido que nunca."
     },
     {
       "date": "29 de abril de 2024",
       "title": "Toolings: ¿Nuevas habilidades del futuro?",
-      "url":"https://www.linkedin.com/pulse/toolings-nuevas-habilidades-del-futuro-guido-risso-xddof/?trackingId=kJSoLdckSwq3XUOZGyRZRw%3D%3D",
-      "image":"/portBlog3.png",
-      "description":
-          "En este #3 artículo de mi newsletter, vengo a tratar un tema del cual vengo pensando bastante... La importancia y el impacto que tiene el conocimiento del uso de herramientas. El objetivo de este artículo es compartir mi visión sobre este tema y cómo el hecho de tener conocimientos sobre herramientas permite destacarte o mismo optimizar tu trabajo frente al resto. En mi caso, menciono algunas herramientas como Power BI, App sheet, Power Automate, Chat GPT, Gemini o mismo excel."
-
+      "url": "https://www.linkedin.com/pulse/toolings-nuevas-habilidades-del-futuro-guido-risso-xddof/?trackingId=kJSoLdckSwq3XUOZGyRZRw%3D%3D",
+      "image": "/portBlog3.png",
+      "description": "En este #3 artículo de mi newsletter, vengo a tratar un tema del cual vengo pensando bastante... La importancia y el impacto que tiene el conocimiento del uso de herramientas. El objetivo de este artículo es compartir mi visión sobre este tema y cómo el hecho de tener conocimientos sobre herramientas permite destacarte o mismo optimizar tu trabajo frente al resto. En mi caso, menciono algunas herramientas como Power BI, App sheet, Power Automate, Chat GPT, Gemini o mismo excel."
     },
-  {
-    "date": "21 de febrero de 2024",
-    "title": "Reinventando a nuestro EX con un toque disruptivo",
-    "url":"https://www.linkedin.com/pulse/reinventando-nuestro-ex-con-un-toque-disruptivo-guido-risso-xgt4f/",
-    "image":"/portBlog2.png",
-    "description":
-        "No te dejes llevar por el título y te invito a que sigas leyendo. En este segundo artículo voy a estar hablando de como la tecnología puede ayudarnos a transformar nuestro 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. Comparto algunos ejemplos y casos de compañias que ya se encuentran en este estadío de 𝗛𝗥 𝗧𝗲𝗰𝗵 teniendo a la tecnología como su principal aliada."
-
-  },
-  {
-    "date": "17 de Enero de 2024",
-    "title": "¿Cómo mantener lo humano en un mundo tecnológico?",
-    "url":"https://www.linkedin.com/pulse/c%C3%B3mo-mantener-lo-humano-en-un-mundo-tecnol%C3%B3gico-guido-risso-gifzf/",
-    "image":"/portBlog1.png",
-    "description":
-        "Cada vez hay más tecnología para optimizar nuestras tareas o servicios por lo cuál a veces se nos olvida la importancia que tiene el toque humano por este motivo, quiero invitarte a que leas esta primera edición en donde reflexionaré sobre como hacerle frente a este contexto actual."
-  }
+    {
+      "date": "21 de febrero de 2024",
+      "title": "Reinventando a nuestro EX con un toque disruptivo",
+      "url": "https://www.linkedin.com/pulse/reinventando-nuestro-ex-con-un-toque-disruptivo-guido-risso-xgt4f/",
+      "image": "/portBlog2.png",
+      "description": "No te dejes llevar por el título y te invito a que sigas leyendo. En este segundo artículo voy a estar hablando de como la tecnología puede ayudarnos a transformar nuestro 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. Comparto algunos ejemplos y casos de compañias que ya se encuentran en este estadío de 𝗛𝗥 𝗧𝗲𝗰𝗵 teniendo a la tecnología como su principal aliada."
+    },
+    {
+      "date": "17 de Enero de 2024",
+      "title": "¿Cómo mantener lo humano en un mundo tecnológico?",
+      "url": "https://www.linkedin.com/pulse/c%C3%B3mo-mantener-lo-humano-en-un-mundo-tecnol%C3%B3gico-guido-risso-gifzf/",
+      "image": "/portBlog1.png",
+      "description": "Cada vez hay más tecnología para optimizar nuestras tareas o servicios por lo cuál a veces se nos olvida la importancia que tiene el toque humano por este motivo, quiero invitarte a que leas esta primera edición en donde reflexionaré sobre como hacerle frente a este contexto actual."
+    }
   ]
-  
 }
-
-
