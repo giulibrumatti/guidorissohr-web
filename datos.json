@@ -8,10 +8,34 @@
     "country": "Argentina",
     "urlLinkedin": "https://www.linkedin.com/in/guidorisso/",
     "urlInstagram": "",
-    "newsletter": "https://www.linkedin.com/newsletters/the-next-hr-trends-tech-6940293600823894017/",
+    "newsletter": "https://www.linkedin.com/newsletters/6940293600823894017/",
     "urlYoutube": "https://www.youtube.com/@HRissan_"
   },
   "videos": [
+    {
+      "title": "Webinar Mentify: Automatizando lo operativo para enfocarnos en lo importante",
+      "description": "",
+      "channelTitle": "Automatización en HR",
+      "videoId": "GlvPVtS4qsw",
+      "image": null,
+      "url": null
+    },
+    {
+      "title": "El futuro de Talent Acquisition es DATA: Cómo dar el salto ",
+      "description": "",
+      "channelTitle": "El futuro de Talent Acquisition",
+      "videoId": "CNKsP6cbG6I",
+      "image": null,
+      "url": null
+    },
+    {
+      "title": "FIDAGH ONLINE: Menos clics, más impacto: Automatizaciones en HR",
+      "description": "",
+      "channelTitle": "Automatización en HR",
+      "videoId": "cvPR0tL49es",
+      "image": null,
+      "url": null
+    },
     {
       "title": "HR TECH #8",
       "description": "",
@@ -134,6 +158,13 @@
     }
   ],
   "blog": [
+    {
+      "date": "18 de Abril de 2025",
+      "title": "¿Y ahora qué? Personas, datos y el nuevo mundo laboral que se está gestando",
+      "url": "https://www.linkedin.com/pulse/y-ahora-qu%C3%A9-personas-datos-el-nuevo-mundo-laboral-que-guido-risso-provf/?trackingId=AIVCo5FdQzyRK4lNg5Z6Ng%3D%3D",
+      "image": "/portBlog7.png",
+      "description": "¿Por qué encasillarse con una sola etiqueta?"
+    },
     {
       "date": "11 de Septiembre de 2024",
       "title": "HR Tech: Automatiza y enfócate en lo que importa",

@@ -3,8 +3,8 @@ import LinkedInIcon from "@/components/icons/LinkedIn.astro";
 import MailIcon from "@/components/icons/Mail.astro";
 import SocialPill from "@/components/SocialPill.astro";
 import { basics } from "datos.json";
-import YouTube from "./icons/YouTube.astro";
-const { name, avatar, image, urlYoutube, urlLinkedin, email } = basics
+import Book from "./icons/Book.astro";
+const { name, avatar, image, newsletter, urlLinkedin, email } = basics
 ---
 
 <div class="max-w-xl">
@@ -22,16 +22,16 @@ const { name, avatar, image, urlYoutube, urlLinkedin, email } = basics
     Hola, soy Guido
   </h1>
   <p class="mt-6 text-xl [&>strong]:text-red-300 [&>strong]:font-semibold text-gray-300">
-    Nombrado <strong><em class="italic">TOP HR INFLUENCER 2023</em></strong> en Argentina por <strong>Go integro</strong>.
+    Nombrado <strong><em class="italic">TOP HR INFLUENCER 2024 & 2025</em></strong> en Argentina por <strong>Go integro</strong>.
   </p>
   <nav class="flex flex-wrap gap-4 mt-8">
     <SocialPill href={urlLinkedin}>
       <LinkedInIcon class="size-4" />
       LinkedIn
     </SocialPill>
-    <SocialPill href={urlYoutube}>
-      <YouTube class="size-4" />
-      YouTube
+    <SocialPill href={newsletter}>
+      <Book class="size-4" />
+      Newsletter
     </SocialPill>
     <SocialPill href={email}>
       <MailIcon class="size-4" />
